@@ -1,6 +1,6 @@
 baseURL = 'https://vxhamra.github.io/'
 languageCode = 'en-us'
-title = 'Virginia Hamra'
+title = 'Between The Docs'
 theme = 'PaperMod'
 
 [pagination]
