@@ -20,6 +20,21 @@ theme = 'PaperMod'
     Title = "Hey there 👋"
     Content = "Welcome to my blog — a space where I share thoughts, learnings, and experiences."
 
+  [params.giscus]
+    repo = "vxhamra/vxhamra.github.io"
+    repoId = "R_kgDOSUIC2w"
+    category = "Announcements"
+    categoryId = "DIC_kwDOSUIC284C8U5m"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    lightTheme = "light"
+    darkTheme = "dark_high_contrast"
+    lang = "en"
+    loading = "lazy"
+
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/vxhamra'

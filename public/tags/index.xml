@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Virginia Hamra</title>
+    <title>Tags on Between The Docs</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Virginia Hamra</description>
+    <description>Recent content in Tags on Between The Docs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
@@ -16,10 +16,52 @@
       <description></description>
     </item>
     <item>
+      <title>Data-Residency</title>
+      <link>http://localhost:1313/tags/data-residency/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-residency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ghec</title>
+      <link>http://localhost:1313/tags/ghec/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ghec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Intro</title>
       <link>http://localhost:1313/tags/intro/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/intro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxy</title>
+      <link>http://localhost:1313/tags/proxy/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/proxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Websocket</title>
+      <link>http://localhost:1313/tags/websocket/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/websocket/</guid>
       <description></description>
     </item>
   </channel>
