@@ -1,0 +1,40 @@
+baseURL = 'https://virginia-hamra.github.io/'
+languageCode = 'en-us'
+title = 'Virginia Hamra'
+theme = 'PaperMod'
+paginate = 5
+
+[params]
+  env = 'production'
+  description = "Virginia's personal blog"
+  defaultTheme = 'auto'
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "Hey there 👋"
+    Content = "Welcome to my blog — a space where I share thoughts, learnings, and experiences."
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/vxhamra'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'archives'
+    name = 'Archives'
+    url = '/archives/'
+    weight = 30
